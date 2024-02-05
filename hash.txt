@@ -1,6 +1,6 @@
-\f17b511738c701b78d0eb86f20cc787166cf9af8 *C:\\Projects\\VinylStore\\scripts\\build_scripts.ts
-\7b4346a9cb8ecde96b4cb3063160b1c9324085da *C:\\Projects\\VinylStore\\scripts\\common.ts
-\97e4a94374cbc17d03eaba6c694d7e7e67b8a870 *C:\\Projects\\VinylStore\\scripts\\console_loading.ts
-\e61f12f776a9f50c6b0a114b631b670df7e6354f *C:\\Projects\\VinylStore\\scripts\\deploy.ts
-\0e945890d79e453536073589044d7e998cada098 *C:\\Projects\\VinylStore\\scripts\\generate_clasp_json.ts
-\3edb1e65f9c72616fb2c8a4c65775eebfdf264b8 *C:\\Projects\\VinylStore\\scripts\\pull.ts
+\f17b511738c701b78d0eb86f20cc787166cf9af8 *C:\\Projects\\VinylStoreExport\\scripts\\build_scripts.ts
+\7b4346a9cb8ecde96b4cb3063160b1c9324085da *C:\\Projects\\VinylStoreExport\\scripts\\common.ts
+\97e4a94374cbc17d03eaba6c694d7e7e67b8a870 *C:\\Projects\\VinylStoreExport\\scripts\\console_loading.ts
+\e61f12f776a9f50c6b0a114b631b670df7e6354f *C:\\Projects\\VinylStoreExport\\scripts\\deploy.ts
+\0e945890d79e453536073589044d7e998cada098 *C:\\Projects\\VinylStoreExport\\scripts\\generate_clasp_json.ts
+\ea113a1fb038aa0937fa4d47ff4f255cae48cd6c *C:\\Projects\\VinylStoreExport\\scripts\\pull.ts

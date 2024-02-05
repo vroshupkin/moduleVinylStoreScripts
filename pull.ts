@@ -34,6 +34,7 @@ function main()
   [
     'npx clasp pull',
     'mv -v ./src/*.js ./src/**/*.js ./src/**/**/*.js ./build/ || echo',
+    'mv -v ./src/sheets/*.js ./build/ || echo',
     'cp -rv ./src/**/*.html ./build || echo',
     'cp -rv ./src/*.json ./build || echo'
   ].forEach(cmd => 
